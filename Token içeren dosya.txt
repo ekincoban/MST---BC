@@ -1,4 +1,3 @@
 Erişim sağlanabilmesi için şifre yerine yazılacak token aşağıdadır:
 
-Token : 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
-
+Token : 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
